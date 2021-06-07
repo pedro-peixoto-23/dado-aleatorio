@@ -3,11 +3,11 @@
 
 <h2>Objetivos do projeto</h2>
 
-- Criar um jogo simples de um valor de um dado aleatório
-- O usuário tem que ficar tentando encontrar qual o valor do dado foi gerado e se acertar ela ganha
-- Ter a possibilidade de reiniciar o game
+- Criar um programa simples que gere um valor aleatório entre 1 e 6 (como um dado)
+- O usuário deve ficar chutando valores até acertar o valor gerado aleatoriamente
+- Possibilitar ao usuário reiniciar o programa e recomeçar o jogo após ter vencido
 - Ter uma interface gráfica usando o PySimpleGUI
 
 
-<strong>Bibliotecas externas necessárias:</strong>
+<strong>Bibliotecas externas necessárias para a utilização:</strong>
 - Biblioteca <strong>PySimpleGUI</strong> instalada no computador
