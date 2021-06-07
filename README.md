@@ -10,4 +10,4 @@
 
 
 <strong>Bibliotecas externas necessárias para a utilização:</strong>
-- Biblioteca <strong>PySimpleGUI</strong> instalada no computador
+- Biblioteca <strong><a href="https://pypi.org/project/PySimpleGUI/">PySimpleGUI</a></strong> instalada no computador
