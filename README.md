@@ -1,4 +1,4 @@
-<h1>Dado Aleatório</h1>
+<h1 align="center">Dado Aleatório</h1>
 
 
 <h2>Objetivos do projeto</h2>
