@@ -4,8 +4,8 @@
 <h2>Objetivos do projeto</h2>
 
 - Criar um programa simples que gere um valor aleatório entre 1 e 6 (como um dado)
-- O usuário deve ficar chutando valores até acertar o valor gerado aleatoriamente
-- Possibilitar ao usuário reiniciar o programa e recomeçar o jogo após ter vencido
+- O usuário deve ficar chutando valores até acertar o que gerado aleatoriamente
+- Possibilitar ao usuário reiniciar e recomeçar novamente o jogo após ter vencido
 - Ter uma interface gráfica usando o PySimpleGUI
 
 
