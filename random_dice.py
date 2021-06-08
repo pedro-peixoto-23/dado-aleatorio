@@ -1,6 +1,4 @@
-# Objetivo do projeto: criar um game que gera um valor aleatório de um dado e o 
-# usuário vai inserindo os valores até acertar o valor criado
-
+# Importando as bibliotecas necessárias
 import PySimpleGUI as sg
 from random import randint
 from time import sleep
