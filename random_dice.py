@@ -5,7 +5,6 @@ from time import sleep
 
 
 class Dado:
-    
     def iniciar(self):
         self.tentativas = 0
         self.valores = list()
