@@ -10,6 +10,7 @@ class Dado:
         # Variável que será usada para guardar os valores que o usuário digitar
         self.valores = list()
         
+        # Definindo um tema para a janela
         sg.theme('DarkTeal6')
         
         # Gerando um valor aleatório para o dado
@@ -106,7 +107,7 @@ class Dado:
         self.janela.hide()
         sg.theme('DarkRed2')
         sg.PopupNoTitlebar(f'Parabéns: Você acertou, mas precisou de '
-                 f'{self.tentativas} tentativas para isso.')
+                           f'{self.tentativas} tentativas para isso.')
         self.fechar_janela_e_reiniciar()
 
  
