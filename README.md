@@ -11,3 +11,5 @@
 
 <strong>Bibliotecas externas necessárias para a utilização:</strong>
 - Biblioteca <strong><a href="https://pypi.org/project/PySimpleGUI/">PySimpleGUI</a></strong> instalada no computador
+
+<strong>Data: 2021</strong>
